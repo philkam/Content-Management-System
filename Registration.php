@@ -33,7 +33,7 @@ if(isset($_POST['submit_user'])){
     </div>
     <?php echo $match ?>
 
-        <form class="form-horizontal" action="16-Registration.php" method="post" role="form">
+        <form class="form-horizontal" action="Registration.php" method="post" role="form">
             <div class="form-group">
                 <label for="name" class="control-label col-sm-2"> First Name*</label>
                 <div class="col-sm-8">
